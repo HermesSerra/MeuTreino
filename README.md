@@ -192,6 +192,7 @@ MIT License
 - Israel Augusto
 - João Henrique Rocha Camargo
 - Johny Rodrigo Luvizotto
+- Kauã Guilherme Rodrigues Dellaquila
 - Leonardo dos Santos Lima
 
 ## Landing page -> https://github.com/HermesSerra/MeuTreino
