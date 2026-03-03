@@ -187,7 +187,6 @@ MIT License
 
 ## Equipe
 
-- Hermes Renato Serra
 - João Paulo Cavalcante de Lima
 - Israel Augusto
 - João Henrique Rocha Camargo
